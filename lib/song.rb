@@ -6,6 +6,12 @@ class  Song
     @name = name 
   end
   
-  def new_by_filename
+  def self.new_by_filename
+  end 
+  
+  def artists_name=
+  end 
+  
+  def artists=
   end 
 end 
