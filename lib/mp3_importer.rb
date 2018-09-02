@@ -7,3 +7,6 @@ class MP3Importer
   def import 
   end
 end 
+
+
+#Dir["/path/to/search/*"]
